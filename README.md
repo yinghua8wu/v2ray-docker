@@ -6,10 +6,10 @@ A v2ray docker image work with nginx for Arukas.
 - v2ray request proxy_pass by nginx
 - custom v2ray settings
 - add environment variables to edit optional setting
-  - CLIENT_ID (default f3c9cb27-746f-4e41-acf2-820bd3002676)
-  - CLIENT_ALTERID (default 100)
-  - CLIENT_WSPATH (default /fuckgfw_letscrossgfw)
-  - VER (default 3.14)
+  - CLIENT_ID (default ad806487-2d26-4636-98b6-ab85cc8521f7)
+  - CLIENT_ALTERID (default 64)
+  - CLIENT_WSPATH (default /ws)
+  - VER (default 4.19.1)
 - don't need custom domain and ssl certificate
 - only cost 1 pods
 
