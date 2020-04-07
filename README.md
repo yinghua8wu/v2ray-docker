@@ -17,3 +17,5 @@ A v2ray docker image work with nginx for Arukas/IBM/okteto
 
 - path to v2ray: https://your.domain/fuckgfw_letscrossgfw
 - path to websites: /usr/share/nginx/html/
+
+实例教程参考 ： https://bawodu.com/openshift-v2ray/
