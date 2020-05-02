@@ -1,8 +1,8 @@
 from nginx:latest
 
-ENV CLIENT_ID "ad806487-2d26-4636-98b6-ab85cc8521f7"
+ENV CLIENT_ID "a1d584e2-32d2-4267-9c19-04525c61a9e6"
 ENV CLIENT_ALTERID 64
-ENV CLIENT_WSPATH "/ws"
+ENV CLIENT_WSPATH "/v2test"
 ENV VER=4.19.1
 
 ADD conf/nginx.conf /etc/nginx/
